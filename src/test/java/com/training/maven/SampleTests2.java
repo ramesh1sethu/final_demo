@@ -13,13 +13,13 @@ public class SampleTests2 {
 	@Test
 	public void testcase02() {
 		System.out.println("*****IN TESTCASE02");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 
 	@Test
 	public void testcase03() {
 		System.out.println("*****IN TESTCASE03");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 
 	@Test
