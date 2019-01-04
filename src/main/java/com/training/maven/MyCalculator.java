@@ -6,6 +6,9 @@ package com.training.maven;
  */
 public class MyCalculator {
 
+	private MyCalculator() {
+	}
+
 	/**
 	 * @param inputNumber1
 	 * @param inputNumber2
