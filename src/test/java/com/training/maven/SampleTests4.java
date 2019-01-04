@@ -7,6 +7,7 @@ public class SampleTests4 {
 	@Test
 	public void testcase01() {
 		System.out.println("*****IN TESTCASE01");
+		System.out.println();
 		Assert.assertTrue(true);
 	}
 
