@@ -25,6 +25,7 @@ public class SampleTests2 {
 	@Test
 	public void testcase04() {
 		System.out.println("*****IN TESTCASE04");
+		System.out.println("*****IN Testcase modify");
 		Assert.assertTrue(true);
 	}
 }

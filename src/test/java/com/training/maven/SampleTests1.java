@@ -27,4 +27,10 @@ public class SampleTests1 {
 		System.out.println("*****IN TESTCASE04");
 		Assert.assertTrue(true);
 	}
+	
+	@Test
+	public void testcase05() {
+		System.out.println("*****IN TESTCASE04");
+		Assert.assertTrue(true);
+	}
 }
