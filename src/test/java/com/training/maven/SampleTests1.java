@@ -2,7 +2,7 @@ package com.training.maven;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+// demo test class for checking test cases 
 public class SampleTests1 {
 	@Test
 	public void testcase01() {
