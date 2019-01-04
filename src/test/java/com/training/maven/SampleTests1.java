@@ -3,6 +3,7 @@ package com.training.maven;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+//This is a demo 
 public class SampleTests1 {
 	@Test
 	public void testcase01() {
