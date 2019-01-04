@@ -4,6 +4,8 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class SampleTests1 {
+	
+	
 	@Test
 	public void testcase01() {
 		System.out.println("*****IN TESTCASE01");
