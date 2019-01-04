@@ -4,6 +4,12 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class SampleTests1 {
+	
+	@Test
+	public void testcase00() {
+		System.out.println("*****IN TESTCASE0000");
+		Assert.assertTrue(true);
+	}
 	@Test
 	public void testcase01() {
 		System.out.println("*****IN TESTCASE01");
