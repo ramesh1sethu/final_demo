@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class SampleTests2 {
 	@Test
 	public void testcase01() {
-		System.out.println("*****IN TESTCASE01");
+		System.out.println("*****IN CASE01");
 		Assert.assertTrue(true);
 	}
 
