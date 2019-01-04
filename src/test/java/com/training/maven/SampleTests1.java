@@ -9,12 +9,13 @@ import org.testng.annotations.Test;
  */
 public class SampleTests1 {
 	/**
-	 * 
+	 * Positive scenario
 	 */
 	@Test
-	public void testcase01() {
-		System.out.println("*****IN TESTCASE01");
-		Assert.assertTrue(true);
+	public void additionTest01() {
+		int expected = 10;
+		int actula = MyCalculator.addition(6, 4);
+		Assert.assertEquals(expected, actula);
 	}
 
 	/**
